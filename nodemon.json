@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "datamod",
+    "MANGO_PASSWORD": "c9q9md",
+    "MONGO_DB": "events_react_dev"
+  }
+}
