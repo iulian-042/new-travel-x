@@ -1,0 +1,6 @@
+.auth-form {
+    width: 40rem;
+    max-width: 80%;
+    /*5 on top and left, center horizontally*/
+    margin: 5rem auto;
+}
