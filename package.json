@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js",
-    "lint": "eslint"
   },
   "author": "",
   "license": "ISC",
@@ -23,7 +22,6 @@
     "react-chartjs-2": "^2.7.6"
   },
   "devDependencies": {
-    "eslint": "^6.2.2",
     "nodemon": "^1.19.1"
   }
 }
